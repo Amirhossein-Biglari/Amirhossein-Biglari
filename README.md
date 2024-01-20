@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-##### I'm Amir
-##### I'm a junior data engineer
-##### I'm interested and learning to write efficient code in Python
+##### I'm Amir.
+##### I'm a junior data engineer.
+##### I'm learning to write efficient code in Python and optimize NumPy-based operations.
 
 ## Skills
 - Python
