@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Amir
+I'm a junior data engineer
+I'm interested and learning to write efficient code in Python
+
+## Skills
+- Python
+- Git
+- Numpy
 <!--
 **Amirhossein-Biglari/Amirhossein-Biglari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
