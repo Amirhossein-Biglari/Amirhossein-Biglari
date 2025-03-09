@@ -1,24 +1,16 @@
-### Hi there 👋
+# Amir Biglari  
 
-##### I'm Amir.
-##### I'm a junior data engineer.
-##### I'm learning to write efficient code in Python and optimize NumPy-based operations.
+## 🚀 About Me  
+I'm a **Python Developer** transitioning into the **Data Engineering** field.  
+Previously, my focus was on **code optimization**, ensuring efficient and scalable solutions. Now, I'm exploring **data pipelines, ETL processes, and big data technologies**.  
 
-## Skills
-- Python
-- Git
-- Numpy
-<!--
-**Amirhossein-Biglari/Amirhossein-Biglari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Skills  
+- **Programming**: Python  
+- **Version Control**: Git  
+- **Containerization**: Docker  
+- **Data Manipulation**: Pandas, NumPy  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/amirhossein-biglari/)  
+
